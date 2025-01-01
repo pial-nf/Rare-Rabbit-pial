@@ -1,0 +1,38 @@
+{
+  "1250110082977370152": {
+    "channelId": "1250110452210335844",
+    "message": "{servername}\nThe name of the server\n{user_mention}\n{\\n}\nThis is a newline character\nThe mention of the user\n{user_tag}\nThe tag of the user\n{membercount}\nThe number of members in the server"
+  },
+  "1250112179168870541": {
+    "channelId": "1250112179168870544",
+    "imageUrl": "https://simgbb.com/images/logo.png",
+    "message": "dd"
+  },
+  "1218617131164504225": {
+    "channelId": "1248700999363727533",
+    "message": "welcome to the server"
+  },
+  "1063451868807839867": {
+    "channelId": "1243974658865369240",
+    "message": "Hello {user_mention} Welcome to {servername} \n Don't forget to check: \n 1. <#1244001666278363268> \n 2. <#1244001247028056174> ⁠",
+    "imageUrl": "https://raw.githubusercontent.com/akshew/image-hosting/main/rabbit-banner.png"
+  },
+  "1247498322592403516": {
+    "message": "hey buddy welcome to ourserver",
+    "channelId": "1247498322592403519"
+  },
+  "1114329561639956555": {
+    "message": "welcome to Flow Support",
+    "channelId": "1250988684342202439"
+  },
+  "1160542401744605325": {
+    "channelId": "h"
+  },
+  "1264686323479089234": {
+    "channelId": "1272046207195156480",
+    "message": "Welcome To Flame HomeTown  . !!                                                                                                                                                                                                                                                                       __Flame HomeTown  Presents__ -                                                                                                                                                                                                                                                                                         Invite Event <#1272046216838123602>  𓆇🕸️𓆸                                                                                                                                                                                                                                                           Stocks  <#1272046261633024091>  ⁠ ༘⋆"
+  },
+  "1274465258790195200": {
+    "message": "welcome {user_mention}!"
+  }
+}

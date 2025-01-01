@@ -1,0 +1,91 @@
+{
+  "1063451868807839867": {
+    "category": "support",
+    "supportRole": "1243974628859183174",
+    "ticketChannel": "1244005291461185608",
+    "ticketOpenMessage": "support",
+    "ticketCloseMessage": "bye"
+  },
+  "1245672674835955812": {
+    "category": "adsf",
+    "supportRole": "1245674730426597406",
+    "ticketChannel": "1245674763003760682",
+    "ticketOpenMessage": "asfgs",
+    "ticketCloseMessage": "afgdf"
+  },
+  "1245672674835955812-eqwd-1141682085430571008": "1245803341737492550",
+  "1250110082977370152": {
+    "category": "support",
+    "supportRole": "1250110435441770577",
+    "ticketChannel": "1250110678161952778",
+    "ticketOpenMessage": "hello",
+    "ticketCloseMessage": "bye"
+  },
+  "1250112179168870541": {
+    "category": "qwf",
+    "supportRole": "1250112424208760987",
+    "ticketChannel": "1250112217685430344",
+    "ticketOpenMessage": "grerg",
+    "ticketCloseMessage": "qerg"
+  },
+  "1063451868807839867-asdf-1131610350886846655": "1250679697189376054",
+  "1063451868807839867-asdf-840545614109343774": "1250682494349738015",
+  "1114329561639956555": {
+    "category": "Tickets",
+    "supportRole": "1250986981232742503",
+    "ticketChannel": "1250988704173129890",
+    "ticketOpenMessage": "Hlw",
+    "ticketCloseMessage": "bye"
+  },
+  "1114329561639956555-Tickets-1064033717561081856": "1251554776655724574",
+  "1122733146375458859": {
+    "category": "Support",
+    "supportRole": "1251601262298796124",
+    "ticketChannel": "1251601351109120090",
+    "ticketOpenMessage": "Need Help / Support regrading Something",
+    "ticketCloseMessage": "byebye"
+  },
+  "1218515652114120785": {
+    "category": "Help",
+    "supportRole": "1218516102188105739",
+    "ticketChannel": "1218516168059392041",
+    "ticketOpenMessage": "**Don't ping Anyone**",
+    "ticketCloseMessage": "thanks for coming"
+  },
+  "1263719445344419891": {
+    "category": "<#1263719445344419894>",
+    "supportRole": "1263763894837444672",
+    "ticketChannel": "1263719445344419894",
+    "ticketOpenMessage": "heyy welcome",
+    "ticketCloseMessage": "closed"
+  },
+  "1263719445344419891-<#1263719445344419894>-1020294908529102908": "1264447820312608849",
+  "1063452003910553731": {
+    "category": "Custom Bot",
+    "supportRole": "1223885594409832480",
+    "ticketChannel": "1238916740205904003",
+    "ticketOpenMessage": "yo this guy wants to buy a custom bot",
+    "ticketCloseMessage": "ohh byebye"
+  },
+  "1160542401744605325": {
+    "category": "general",
+    "supportRole": "1163664489229582348",
+    "ticketChannel": "1160542402239529002",
+    "ticketOpenMessage": "hi",
+    "ticketCloseMessage": "hi"
+  },
+  "1275115385947029616": {
+    "category": "support",
+    "supportRole": "1275115385947029619",
+    "ticketChannel": "1275115386148487259",
+    "ticketOpenMessage": "Welcome {user} <@&1275115385947029619> WIll Be Assist You Shortly",
+    "ticketCloseMessage": "Your Ticket Has Been Closed"
+  },
+  "1273329412179361812": {
+    "category": "1273330082731003974",
+    "supportRole": "1273330087185354762",
+    "ticketChannel": "1273330230886531083",
+    "ticketOpenMessage": "OPEN",
+    "ticketCloseMessage": "CLOSE"
+  }
+}
