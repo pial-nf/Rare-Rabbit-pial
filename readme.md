@@ -32,6 +32,7 @@ Rare Rabbit is an all-in-one Discord bot designed to elevate your server with AI
 
  discord: [discord.gg/teamkronix](https://discord.gg/MtNqTt8RUx)
 
+
 ---
 
 ## 🛠️ Installation  
