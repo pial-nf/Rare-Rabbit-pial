@@ -27,20 +27,11 @@ Rare Rabbit is an all-in-one Discord bot designed to elevate your server with AI
 ---
 
 ## 💡 Need a Custom Discord Bot?  
+These are just free codes for everyone to use. If you want a tailored Discord bot with specific modules or categories—be it AI, music, moderation, or any custom feature you dream of—just contact us.
 
-```js
-// These are just free codes for everyone to use.
-// If you want a tailored Discord bot with specific modules or categories,
-// like AI, music, moderation, or anything you can imagine...
-
-contact({
-  custom_bot: "We create personalized bots at affordable prices!",
-  discord: [discord.gg/kronix](https://discord.gg/MtNqTt8RUx),
-  cheap: true,
-  efficient: true,
-});
-```
-
+We create personalized bots at affordable prices. Reach out, and we’ll bring your ideas to life—cheap and efficient!
+ discord: [discord.gg/teamkronix](https://discord.gg/MtNqTt8RUx),
+ cheap: true,
 ---
 
 ## 🛠️ Installation  
