@@ -47,6 +47,21 @@ Rare Rabbit is an all-in-one Discord bot designed to elevate your server with AI
 
 ---
 
+## 💡 Need a Custom Discord Bot?  
+
+```js
+// These are just free codes for everyone to use.
+// If you want a tailored Discord bot with specific modules or categories,
+// like AI, music, moderation, or anything you can imagine...
+
+contact({
+  discord: "YourDiscordTag#1234",
+  cheap: true,
+  efficient: true,
+});
+
+---
+
 ## 📝 A Note from the Developer  
 
 Rare Rabbit was built with love and a strong foundation, using the **Resist Bot codebase** as a starting point. While we've transformed it into something truly unique, we acknowledge and appreciate the inspiration it provided.  
