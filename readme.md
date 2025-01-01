@@ -1,4 +1,6 @@
+Here’s the updated version with the section styled as JavaScript code:  
 
+```markdown
 # 🐇 Rare Rabbit  
 
 Rare Rabbit is an all-in-one Discord bot designed to elevate your server with AI-driven interactivity, seamless music streaming, server management, and much more. Whether you're managing a bustling community or a small friend group, Rare Rabbit is here to make your Discord experience smarter, faster, and more fun.
@@ -7,7 +9,7 @@ Rare Rabbit is an all-in-one Discord bot designed to elevate your server with AI
 
 ## ✨ Features at a Glance  
 
-- 🤖 **AI Intelligence**: advance image generation
+- 🤖 **AI Intelligence**: Engage in smart conversations and customize bot personalities.  
 - 🎵 **Music**: High-quality streaming with robust queue controls.  
 - 🎟️ **Tickets**: Hassle-free support system for your server.  
 - 👋 **Welcome System**: Greet new members with style.  
@@ -15,11 +17,29 @@ Rare Rabbit is an all-in-one Discord bot designed to elevate your server with AI
 - 🔨 **AutoMod**: Automate moderation with advanced filters.  
 - 🎮 **Games**: Fun and interactive games to keep members entertained.  
 - 🎁 **Giveaways**: Host exciting giveaways effortlessly.  
-- 📸 **Media Tools**: Manage media like a pro.  
+- 📸 **Media Tools**: Share and manage media like a pro.  
 - ⚔️ **Moderation**: Keep your server safe with powerful commands.  
+- 🏰 **Server Management**: Simplify your server setup and control.  
 - 📌 **Sticky Messages**: Pin essential info that stays visible.  
 - 🌐 **Vanity URLs**: Manage custom invite links.  
 - 🎙️ **Voice Roles**: Auto-assign roles based on voice activity.  
+
+---
+
+## 💡 Need a Custom Discord Bot?  
+
+```js
+// These are just free codes for everyone to use.
+// If you want a tailored Discord bot with specific modules or categories,
+// like AI, music, moderation, or anything you can imagine...
+
+contact({
+  custom_bot: "We create personalized bots at affordable prices!",
+  discord: [discord.gg/kronix](https://discord.gg/MtNqTt8RUx),
+  cheap: true,
+  efficient: true,
+});
+```
 
 ---
 
@@ -27,7 +47,7 @@ Rare Rabbit is an all-in-one Discord bot designed to elevate your server with AI
 
 1. **Clone the Repo**  
    ```bash
-   git clone https://github.com/akshew/rare-rabbit.git
+   git clone https://github.com/your-username/rare-rabbit.git
    ```
 
 2. **Navigate to the Directory**  
@@ -40,25 +60,18 @@ Rare Rabbit is an all-in-one Discord bot designed to elevate your server with AI
    npm install
    ```
 
-4. **Start the Bot**  
+4. **Set Up Your Environment**  
+   Configure the `.env` file with your bot credentials:  
+   ```env
+   DISCORD_TOKEN=your-bot-token
+   DATABASE_URL=your-database-url
+   AI_API_KEY=your-ai-api-key
+   ```
+
+5. **Start the Bot**  
    ```bash
    node index.js
    ```
-
----
-
-## 💡 Need a Custom Discord Bot?  
-
-```js
-// These are just free codes for everyone to use.
-// If you want a tailored Discord bot with specific modules or categories,
-// like AI, music, moderation, or anything you can imagine...
-
-contact({
-  discord: "YourDiscordTag#1234",
-  cheap: true,
-  efficient: true,
-});
 
 ---
 
@@ -68,13 +81,8 @@ Rare Rabbit was built with love and a strong foundation, using the **Resist Bot 
 
 ---
 
-
 ## 🌟 Get Started  
 
 Start enhancing your Discord experience with Rare Rabbit today! 🐇✨  
 ```  
 
-### What's Changed?  
-1. **Minimalist Design**: Removed excessive text and made the layout more concise.  
-2. **Improved Flow**: Features are presented in a single glance without lengthy descriptions.  
-3. **Modern Look**: Added emojis and clean formatting to make the README visually appealing.  
