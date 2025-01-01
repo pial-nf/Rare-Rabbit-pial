@@ -1,5 +1,4 @@
 
-```markdown
 # 🐇 Rare Rabbit  
 
 Rare Rabbit is an all-in-one Discord bot designed to elevate your server with AI-driven interactivity, seamless music streaming, server management, and much more. Whether you're managing a bustling community or a small friend group, Rare Rabbit is here to make your Discord experience smarter, faster, and more fun.
