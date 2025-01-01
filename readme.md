@@ -53,12 +53,7 @@ Rare Rabbit is an all-in-one Discord bot designed to elevate your server with AI
    ```
 
 4. **Set Up Your Environment**  
-   Configure the `.env` file with your bot credentials:  
-   ```env
-   DISCORD_TOKEN=your-bot-token
-   DATABASE_URL=your-database-url
-   AI_API_KEY=your-ai-api-key
-   ```
+   Configure the `config.js and settings.js` file with your bot credentials
 
 5. **Start the Bot**  
    ```bash
