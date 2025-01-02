@@ -39,7 +39,7 @@ Rare Rabbit is an all-in-one Discord bot designed to elevate your server with AI
 
 1. **Clone the Repo**  
    ```bash
-   git clone https://github.com/your-username/rare-rabbit.git
+   git clone https://github.com/teamkronix/rare-rabbit.git
    ```
 
 2. **Navigate to the Directory**  
